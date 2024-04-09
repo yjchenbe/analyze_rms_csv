@@ -19,7 +19,7 @@ To use this module, simply import the analyze_rms_csv function from the script a
 from analyze_rms_csv import analyze_rms_csv
 analyze_rms_csv()
 ```
-![Example in Google Colab](https://github.com/yjchenbe/analyze_rms_csv/blob/12d40771f56954c4e31e658428043d0713d4f7a0/example_of_usage.PNG)
+[![Example in Google Colab](https://github.com/yjchenbe/analyze_rms_csv/blob/12d40771f56954c4e31e658428043d0713d4f7a0/example_of_usage.PNG)]
 
 
 
